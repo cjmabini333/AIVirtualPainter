@@ -5,7 +5,11 @@ Index Finger for drawing.
 
 Python version used: 3.10
 ---
+Preview:
 
+[Preview]: https://github.com/cjmabini333/AIVirtualPainter/blob/master/previewvirtualpainter.png "Virtual Painter"
+
+---
 Packages used:
 
 - opencv-python
@@ -16,11 +20,7 @@ Note:
 - Check if HandTrackMod.py is imported in VirPainter.py
 - Also check for the Header folder if there are images inside otherwise this project wont work
 ---
-Preview:
 
-![Preview]: 291046690_475847587718466_8887444053435561486_n.png "Virtual Painter"
-
----
 How to run this project:
 
 Step 1: Clone the repository in a folder or download the zip file and open it in an IDE
