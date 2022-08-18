@@ -5,9 +5,9 @@ Index Finger for drawing.
 
 Python version used: 3.10
 ---
-Preview:
+How it looks like:
 
-[Preview]: https://github.com/cjmabini333/AIVirtualPainter/blob/master/previewvirtualpainter.png "Virtual Painter"
+![](https://github.com/cjmabini333/AIVirtualPainter/blob/master/images/previewvirtualpainter.png)
 
 ---
 Packages used:
